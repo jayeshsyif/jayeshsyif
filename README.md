@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm a passionate software engineer with a strong foundatio
 - 🧠 **Goal**: Transition into a Tech Architect role  
 - 🛠️ **Tech Stack**: Java, Spring Boot, Kafka, AS2, REST APIs, Microservices  
 - 🧩 **Interests**: Scalable architecture, clean code, performance optimization  
-- 🧾 [My Resume]([https://flowcv.com/resume/3b2ipidt57ges](https://jayeshsyif.github.io/resume/)**: Java, Python, JavaScript  
+- 🧾 [My Resume](https://jayeshsyif.github.io/resume/)**: Java, Python, JavaScript  
 - **Frameworks**: Spring Boot
 - **Messaging & Integration**: Kafka, Docker  
 - **DevOps**: Docker, Jenkins, GitHub Actions  
